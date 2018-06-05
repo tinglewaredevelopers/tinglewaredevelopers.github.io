@@ -1,6 +1,6 @@
 # Tingleware corporative Website
 
-Tingleware Official Website
+Tingleware Official Website and Portifolio
 
 Using a free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra [type-theme](https://github.com/rohanchandra/type-theme) with a few new features:
 
