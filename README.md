@@ -1,5 +1,4 @@
-# Tingleware Developers
-## SOBRE NÓS
+# SOBRE NÓS
 
 A *Tingleware Developers*, é uma equipe de desenvolvedores de software focada em desenvolver soluções inovadoras.
 
