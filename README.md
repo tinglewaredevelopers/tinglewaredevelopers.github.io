@@ -7,3 +7,8 @@ Nossa especialidade é desenvolvimento _WEB_ com _PHP_ e seu _Framework Laravel_
 Como desenvolvedores de software nos esforçamos para entregar não somente código bem escrito, mas código que entrega valor real a cada cliente.
 
 >**Atenção:** Site em desenvolvimento, agradecemos pela compreensão. Encontrou algum erro? Agradecemos que informe-nos *contacto.tingleware@gmail.com*.
+
+```
+É muito melhor adaptar a tecnologia ao usuário, doque forçar o usuário a se adaptar a tecnologia. **Larry Marine**
+
+``
