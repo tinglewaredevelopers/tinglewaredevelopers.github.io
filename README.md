@@ -11,4 +11,4 @@ Como desenvolvedores de software nos esforçamos para entregar não somente cód
 ```
 É muito melhor adaptar a tecnologia ao usuário, doque forçar o usuário a se adaptar a tecnologia. **Larry Marine**
 
-``
+```
