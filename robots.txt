@@ -1,1 +1,8 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /tag/
+Disallow: */trackback/
+
+Disallow: /*/*?s=*
+
 Sitemap: https://tinglewaredevelopers.github.io/sitemap.xml
