@@ -7,3 +7,7 @@ body{
 .bg-gray{
 	background-color: #212121;
 }
+
+.card {
+	color: #000 !important;
+}
