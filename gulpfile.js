@@ -23,7 +23,7 @@ gulp.task('styles', function () {
 });
 
 gulp.task('imagemin', function () {
-    gulp.src('src/img/**/*{.png,.jpg,.jpeg,.gif,.svg}')
+    gulp.src('src/images/**/*{.png,.jpg,.jpeg,.gif,.svg}')
         .pipe(imagemin({
             interlaced: true,
             progressive: true,
