@@ -2,7 +2,7 @@
     "name": "tinglewaredevelopers",
     "version": "1.0.0",
     "description": "LandingPage da Tingleware Developers",
-    "main": "index.js",
+    "main": "index.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -17,7 +17,7 @@
         "development"
     ],
     "author": "Tingleware Developers <contacto.tingleware@gmail.com> (https://tinglewaredevelopers.github.io)",
-    "license": "MIT",
+    "license": "Apache 2.0",
     "bugs": {
         "url": "https://github.com/tinglewaredevelopers/tinglewaredevelopers.github.io/issues"
     },
