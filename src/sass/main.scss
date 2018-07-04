@@ -80,14 +80,41 @@ footer {
     text-align: center;
     padding: 60px 0;
   }
-  .about-us-title {
-    text-transform: uppercase;
-    font-family: 'Roboto','Sans Serif';
-    font-size: 56px;
+}
+
+/* Service section */
+
+.service-content {
+  padding: 60px 0;
+  .media {
+    padding: 20px;
+    font-family: 'Roboto',
+    'Sans Serif';
+    .media-heading {
+      font-size: 17px;
+      line-height: 1.5;
+      font-weight: 400;
+      margin-bottom: 5px;
+      text-transform: uppercase;
+    }
+    .media-body > p {
+      text-align: justify;
+      text-justify: distribute;
+      font-size: 14px;
+    }
+    .media-left > .icon {
+      font-size: 64px;
+    }
   }
 }
 
 /* Helpers class */
+
+.section-title {
+  text-transform: uppercase;
+  font-family: 'Roboto', 'Sans Serif';
+  font-size: 56px;
+}
 
 .m-auto {
   margin: 0 auto;
