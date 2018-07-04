@@ -4,9 +4,10 @@ body{
 }
 
 main {
-  background-image: url("../images/ideia.jpg");
+  background-image: url("../images/roxana-voicaru-671805-unsplash.jpg");
   background-size: cover;
-  opacity: 0.6;
+  -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+  filter: grayscale(100%);
   background-color: black;
   .main-content {
     padding: 150px 0 50px;
@@ -34,8 +35,36 @@ main {
       .call-to, .mt-4 {
           margin-top: 40px;
       }
+      .call-to {
+        padding: 20px;
+        background: #FFF;
+        border: none;
+      }
     }
   }
+}
+
+footer {
+  background-color: #222222;
+  padding: 25px 0;
+  color: rgba(255, 255, 255, 0.3);
+  text-align: center;
+  p {
+    font-size: 12px;
+    margin: 0;
+  }
+}
+
+.ml-2 {
+  margin-left: 20px;
+}
+
+.menu-link {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-family: 'Roboto', 'Arial', 'sans-serif';
+  color: #000;
 }
 
 .btn {
