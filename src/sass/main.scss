@@ -44,6 +44,13 @@ main {
   }
 }
 
+hr {
+  max-width: 100px;
+  margin: 25px auto 0;
+  border-width: 1px;
+  border-top: 1px solid #000 !important;
+}
+
 footer {
   background-color: #222222;
   padding: 25px 0;
@@ -53,6 +60,37 @@ footer {
     font-size: 12px;
     margin: 0;
   }
+}
+
+/* About Us section */
+
+.about-us {
+  text-align: center;
+  padding: 10px;
+  color: #000;
+  background-color: rgb(255, 235, 59);
+  p {
+    font-size: 20px;
+    font-family: 'Roboto', 'Sans Serif';
+    line-height: 32px;
+    font-weight: 400;
+    padding: 15px;
+  }
+  .about-us-content {
+    text-align: center;
+    padding: 60px 0;
+  }
+  .about-us-title {
+    text-transform: uppercase;
+    font-family: 'Roboto','Sans Serif';
+    font-size: 56px;
+  }
+}
+
+/* Helpers class */
+
+.m-auto {
+  margin: 0 auto;
 }
 
 .ml-2 {
