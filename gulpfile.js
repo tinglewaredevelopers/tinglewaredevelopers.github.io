@@ -29,7 +29,7 @@ gulp.task('imagemin', function () {
             progressive: true,
             optimizationLevel: 5
         }))
-        .pipe(gulp.dest('assets/img/'))
+        .pipe(gulp.dest('assets/images/'))
 });
 
 gulp.task('watch', function () {
