@@ -1,4 +1,4 @@
-# SOBRE NÓS
+# Tingleware Developers Landing Page
 
 A *Tingleware Developers*, é uma equipe de desenvolvedores de software focada em desenvolver soluções inovadoras.
 
@@ -8,7 +8,15 @@ Como desenvolvedores de software nos esforçamos para entregar não somente cód
 
 >**Atenção:** Site em desenvolvimento, agradecemos pela compreensão. Encontrou algum erro? Agradecemos que informe-nos *contacto.tingleware@gmail.com*.
 
-```
-É muito melhor adaptar a tecnologia ao usuário, doque forçar o usuário a se adaptar a tecnologia. **Larry Marine**
+## Instalação
 
-```
+Para executar o projecto e instalar as dependênias, é necessário ter o NodeJS instalado na sua máquina.
+
+* Instale o gulp instalado instale com o comando:
+  `npm i -g gulp`
+
+ * Instale as dependẽncias
+  `npm install`
+
+* Execute o task runner com o comando (Para executar todas e continuar aguardando por mudanças)
+  `gulp`
