@@ -12,8 +12,8 @@ Como desenvolvedores de software nos esforçamos para entregar não somente cód
 
 Para executar o projecto e instalar as dependênias, é necessário ter o NodeJS instalado na sua máquina.
 
-* Instale o gulp instalado instale com o comando:
-  `npm i -g gulp`
+* Instale o gulp com o comando:
+  `npm install -g gulp`
 
  * Instale as dependẽncias
   `npm install`
